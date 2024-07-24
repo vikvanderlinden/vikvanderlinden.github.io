@@ -13,7 +13,13 @@
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
     {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endif %}
+    {% if site.author.blog %}
+      <li><a href="{{ site.author.blog_url }}"><i style="color:#9ba1a6" class="fa fa-solid fa-book" aria-hidden="true"></i> {{ site.author.blog }}</a></li>
+    {% endif %}
+    {% if site.author.blog2 %}
+      <li><a href="{{ site.author.blog2_url }}"><i style="color:#9ba1a6" class="fa fa-solid fa-book" aria-hidden="true"></i> {{ site.author.blog2 }}</a></li>
     {% endif %}
   </ul>
 </div>
