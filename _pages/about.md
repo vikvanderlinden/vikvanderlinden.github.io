@@ -18,4 +18,6 @@ I'm active as TA in following courses:
 ### Web Security and Privacy
 
 I'm lucky to be able to work alongside the awesome people in our team:
-[Angelos Beitis](https://distrinet.cs.kuleuven.be/people/AngelosBeitis) - [Lieven Desmet](https://distrinet.cs.kuleuven.be/people/LievenDesmet) - [Yana Dimova](https://distrinet.cs.kuleuven.be/people/YanaDimova) - [Gertjan Franken](https://gjfr.dev/) - [Héloïse Gollier](https://distrinet.cs.kuleuven.be/people/HeloiseGollier) - [Victor Le Pochat](https://lepoch.at/) - [Jeroen Robben](https://distrinet.cs.kuleuven.be/people/JeroenRobben) - [Tom Van Goethem](https://tom.vg/) - [Mathy Vanhoef](https://mathyvanhoef.com/)
+[Angelos Beitis](https://angelosbeitis.github.io/) - [Lieven Desmet](https://distrinet.cs.kuleuven.be/people/LievenDesmet) - [Yana Dimova](https://distrinet.cs.kuleuven.be/people/YanaDimova) - [Gertjan Franken](https://gjfr.dev/) - [Héloïse Gollier](https://distrinet.cs.kuleuven.be/people/HeloiseGollier) - [Jeroen Robben](https://distrinet.cs.kuleuven.be/people/JeroenRobben) - [Tom Van Goethem](https://tom.vg/) - [Daan Vansteenhuyse](https://distrinet.cs.kuleuven.be/people/DaanVansteenhuyse) - [Mathy Vanhoef](https://mathyvanhoef.com/)  
+and previously also:
+[Victor Le Pochat](https://lepoch.at/)
