@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -23,13 +23,13 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Vik Vanderlinden"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "PhD Researcher in Web and Network Security"
   location         : "Belgium"
   employer         : "DistriNet, KU Leuven"
   employer_uri     : "https://distrinet.cs.kuleuven.be/people/VikVanderlinden"
   uri              : # URL
-  email            : "vik.vanderlinden@kuleuven.be" 
+  email            : "vik.vanderlinden@kuleuven.be"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,8 +45,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "vikvanderlinden"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
@@ -73,10 +73,10 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  blog             : "Hackademic Adventures"
-  blog_url         : "https://hackademicadventures.substack.com/"
-  blog2            : "How the NetWorks? 🤔"
-  blog2_url        : "https://howthenetworks.substack.com/"
+  # blog             : "Hackademic Adventures"
+  # blog_url         : "https://hackademicadventures.substack.com/"
+  # blog2            : "How the NetWorks? 🤔"
+  # blog2_url        : "https://howthenetworks.substack.com/"
 
 
 
